@@ -1,17 +1,21 @@
 # isaac_ocampo_giles_segunda_app
 
-prueba de lista viva
+Prueba de lista viva en Flutter.
 
-## Getting Started
+## 🚀 Pasos para ejecutar en la computadora de la escuela
 
-This project is a starting point for a Flutter application.
+Abre tu terminal (o la consola de Comandos / Git Bash) y sigue estos pasos:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Clonar el repositorio
+```bash
+git clone <URL_DE_TU_REPOSITORIO>
+```
+### 2. Descargar dependencias
+```bash
+flutter pub get
+```
+## En caso de errores al correr proyecto
+```
+flutter clean
+flutter pub get
+```
